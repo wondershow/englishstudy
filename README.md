@@ -76,6 +76,20 @@ a term used in Latin America or Spain to refer to a foreigner, especially one of
 ###Paramount['pærəmaʊnt]
 - more important than anything else
   _Everybody agrees that education is the paramount issue._
+##S
+###sire
+1.
+the male parent of a quadruped.
+2.
+a respectful term of address, now used only to a male sovereign.
+3.
+Archaic.
+a father or forefather.
+a person of importance or in a position of authority, as a lord.
+verb (used with object), sired, sir·ing.
+4.
+to beget; procreate as the father.
+
 
 
 
