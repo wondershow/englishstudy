@@ -91,6 +91,19 @@ a ​painful ​disease of the ​joints, esp. in a ​toe or ​finger
 ### Neigh
  a ​long, ​loud, high ​sound that ​horses make when ​excited or ​frightened
 
+##I
+
+infernal/ɪnˈfɝː.nəl/
+
+[a][before noun] old-fashioned very ​bad or ​unpleasant:
+
+_What an infernal ​noise!_
+
+[a]› having the ​qualities of ​hell (= the ​place where some ​people ​believe ​bad ​people go after ​death):
+
+He ​described a ​journey through the infernal ​world
+
+
 
 ##P
 ------------
@@ -111,6 +124,10 @@ vi.懒散；闲逛(=putter)；磨蹭地做一些琐事
 _He doesn't ​drive very ​fast - he ​tends to potter along._
 
 
+##Q
+Qualm /kwɑm, kwɔm/
+an ​uncomfortable ​feeling of ​doubt about whether you are doing the ​right thing:
+_Unfortunately, he said, there are ​people who have no qualms about ​bringing in ​replacement ​workers for ​strikers._
 
 ##S
 ###saber
