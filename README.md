@@ -21,6 +21,7 @@ the act or practice of bartering.
 items or an item for bartering:
 
 
+
 ##C
 ------------
 ###concubine ['kɑːŋkjubaɪn]
@@ -89,8 +90,14 @@ a term used in Latin America or Spain to refer to a foreigner, especially one of
 ###Potter
 n.陶工；陶艺家
 vi.懒散；闲逛(=putter)；磨蹭地做一些琐事
+
+
 [verb] to ​move around without ​hurrying, and in a ​relaxed and ​pleasant way:
+
+
 _He doesn't ​drive very ​fast - he ​tends to potter along._
+
+
 
 ##S
 ###sire
