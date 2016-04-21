@@ -112,6 +112,11 @@ He ​described a ​journey through the infernal ​world
 - more important than anything else
   _Everybody agrees that education is the paramount issue._
 
+###parley
+
+noun [C] UK    /ˈpɑː.li/  US    /ˈpɑːr.li/ old-fashioned or humorous
+
+› a ​discussion between two ​groups of ​people, ​especially one that is ​intended to end an ​argument
 
 ###Potter
 n.陶工；陶艺家
@@ -128,6 +133,16 @@ _He doesn't ​drive very ​fast - he ​tends to potter along._
 Qualm /kwɑm, kwɔm/
 an ​uncomfortable ​feeling of ​doubt about whether you are doing the ​right thing:
 _Unfortunately, he said, there are ​people who have no qualms about ​bringing in ​replacement ​workers for ​strikers._
+
+
+##R
+
+###ruse
+noun [C]  US    /ruz/
+
+› a ​trick ​intended to ​deceive someone:
+_You didn’t ​fall for my ruse._
+
 
 ##S
 ###saber
