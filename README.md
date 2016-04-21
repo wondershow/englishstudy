@@ -1,6 +1,12 @@
 #englishstudy
 
 ##A
+
+###Airag
+n. also spelled ayrag, the Mongolian word for fermented horse milk, an alcoholic spirit;
+马奶酒
+
+
 ------------
 ##B
 barter
