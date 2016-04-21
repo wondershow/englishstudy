@@ -23,6 +23,14 @@ items or an item for bartering:
 
 ##C
 ------------
+###concubine ['kɑːŋkjubaɪn]
+
+a woman who, in some ​societies, ​lives and has ​sex with a man she is not ​married to, and has a ​lower ​social ​rank than his wife or wives
+
+
+
+
+
 ###consort
 noun.
 1.
@@ -76,6 +84,14 @@ a term used in Latin America or Spain to refer to a foreigner, especially one of
 ###Paramount['pærəmaʊnt]
 - more important than anything else
   _Everybody agrees that education is the paramount issue._
+
+
+###Potter
+n.陶工；陶艺家
+vi.懒散；闲逛(=putter)；磨蹭地做一些琐事
+[verb] to ​move around without ​hurrying, and in a ​relaxed and ​pleasant way:
+_He doesn't ​drive very ​fast - he ​tends to potter along._
+
 ##S
 ###sire
 1.
