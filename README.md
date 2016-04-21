@@ -75,14 +75,21 @@ to sound in harmony.
 
 
 
-###G
+##G
 ------------
 
-Gringo /ˈgrɪŋ goʊ/ 
+###Gringo /ˈgrɪŋ goʊ/ 
 
 a term used in Latin America or Spain to refer to a foreigner, especially one of U.S. or British descent (sometimes used facetiously).
 
+### Gout /ɡɑʊt/
+a ​painful ​disease of the ​joints, esp. in a ​toe or ​finger 
+（指）关节疼
 
+
+##N
+### Neigh
+ a ​long, ​loud, high ​sound that ​horses make when ​excited or ​frightened
 
 
 ##P
@@ -106,6 +113,13 @@ _He doesn't ​drive very ​fast - he ​tends to potter along._
 
 
 ##S
+###saber
+a ​weapon with a ​sharp ​blade, used esp. in the past by ​soldiers on ​horses
+
+马刀
+
+
+
 ###sire
 1.
 the male parent of a quadruped.
