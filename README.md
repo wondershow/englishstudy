@@ -85,6 +85,20 @@ a term used in Latin America or Spain to refer to a foreigner, especially one of
 ### Gout /ɡɑʊt/
 a ​painful ​disease of the ​joints, esp. in a ​toe or ​finger 
 （指）关节疼
+##H
+###hone[hoʊn]
+Noun:
+a whetstone made of fine gritstone; used for sharpening razors
+
+
+Verb:
+
+sharpen with a hone;
+_hone a knife_
+
+make perfect or complete;
+
+_perfect your French in Paris!_
 
 
 ##N
