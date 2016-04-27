@@ -34,8 +34,13 @@ items or an item for bartering:
 
 a woman who, in some ​societies, ​lives and has ​sex with a man she is not ​married to, and has a ​lower ​social ​rank than his wife or wives
 
+###Chardonnay ['ʃɑːrdəneɪ]
 
+n.霞多丽酒（一种类似夏布利酒的无甜味白葡萄酒）；霞多丽（一种酿酒葡萄，原产自法国勃艮第）
 
+###Cunt n. <忌>阴道； 女性之阴部； 性交； 肉体； (尤指被视作性交对象的)女人
+n. an ​offensive word for a very ​unpleasant or ​stupid ​person:
+小婊砸
 
 
 ###consort
@@ -73,6 +78,10 @@ to accompany; espouse.
 to sound in harmony.
 
 
+##F
+Felicity
+
+n. happiness, ​luck, or a ​condition that ​produces ​positive ​results:
 
 
 ##G
@@ -179,8 +188,13 @@ verb (used with object), sired, sir·ing.
 4.
 to beget; procreate as the father.
 
+###slaw
+n.卷心菜沙拉
+=coleslaw（美）
 
-
+##T
+###tipsy
+slightly drunk
 
 ##V
 ------------
