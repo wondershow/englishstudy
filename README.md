@@ -113,9 +113,6 @@ make perfect or complete;
 _perfect your French in Paris!_
 
 
-##N
-### Neigh
- a ​long, ​loud, high ​sound that ​horses make when ​excited or ​frightened
 
 ##I
 
@@ -129,14 +126,37 @@ _What an infernal ​noise!_
 
 He ​described a ​journey through the infernal ​world
 
+##M
+
+###Mass
+n.  (esp. in the ​Roman ​Catholic ​Church) a ​religious ​ceremony ​based on Jesus’s last ​meal with his ​disciples (= the men who ​followed him), or ​music written for the ​parts of this ​ceremony
+
+
+##N
+### Neigh
+ a ​long, ​loud, high ​sound that ​horses make when ​excited or ​frightened
+
+
+
 
 
 ##P
 ------------
 
+###Parish
+n. 
+an ​area that a ​church ​provides for:
+_She ​lived her ​whole ​life in this parish._
+› A parish is also a ​political ​division within the ​state of Louisiana.
+
+
 ###Paramount['pærəmaʊnt]
 - more important than anything else
   _Everybody agrees that education is the paramount issue._
+
+
+
+
 
 ###parley
 
