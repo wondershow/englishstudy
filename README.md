@@ -38,7 +38,10 @@ a woman who, in some ​societies, ​lives and has ​sex with a man she is not
 
 n.霞多丽酒（一种类似夏布利酒的无甜味白葡萄酒）；霞多丽（一种酿酒葡萄，原产自法国勃艮第）
 
-###Cunt n. <忌>阴道； 女性之阴部； 性交； 肉体； (尤指被视作性交对象的)女人
+###Cunt 
+
+n. <忌>阴道； 女性之阴部； 性交； 肉体； (尤指被视作性交对象的)女人
+
 n. an ​offensive word for a very ​unpleasant or ​stupid ​person:
 小婊砸
 
@@ -173,6 +176,8 @@ a ​weapon with a ​sharp ​blade, used esp. in the past by ​soldiers on �
 
 马刀
 
+###Synagogue
+a ​building in which ​people of the ​Jewish ​religion ​worship and ​study
 
 
 ###sire
