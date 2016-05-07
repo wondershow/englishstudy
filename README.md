@@ -6,10 +6,20 @@
 n. also spelled ayrag, the Mongolian word for fermented horse milk, an alcoholic spirit;
 马奶酒
 
+###Ale
+麦芽酒
+
 
 ------------
 ##B
-barter
+
+###Berlin Airlift
+At the end of the Second World War, U.S., British, and Soviet military forces divided and occupied Germany. Also divided into occupation zones, Berlin was located far inside Soviet-controlled eastern Germany. The United States, United Kingdom, and France controlled western portions of the city, while Soviet troops controlled the eastern sector. As the wartime alliance between the Western Allies and the Soviet Union ended and friendly relations turned hostile, the question of whether the western occupation zones in Berlin would remain under Western Allied control or whether the city would be absorbed into Soviet-controlled eastern Germany led to the first Berlin crisis of the Cold War. The crisis started on June 24, 1948, when Soviet forces blockaded rail, road, and water access to Allied-controlled areas of Berlin. The United States and United Kingdom responded by airlifting food and fuel to Berlin from Allied airbases in western Germany. The crisis ended on May 12, 1949, when Soviet forces lifted the blockade on land access to western Berlin.
+
+
+
+
+###barter
 
 verb (used without object)
 1.
