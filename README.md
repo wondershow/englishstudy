@@ -217,6 +217,9 @@ a ​weapon with a ​sharp ​blade, used esp. in the past by ​soldiers on �
 a ​building in which ​people of the ​Jewish ​religion ​worship and ​study
 
 
+###Shrivel
+v. to become dried out and smaller, appearing crushed or folded, or to make something do this:
+
 ###sire
 1.
 the male parent of a quadruped.
