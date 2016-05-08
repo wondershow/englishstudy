@@ -9,6 +9,11 @@ n. also spelled ayrag, the Mongolian word for fermented horse milk, an alcoholic
 ###Ale
 麦芽酒
 
+###Arbitrage
+the method on the stock exchange of buying something 
+in one place and selling it in another place at the 
+same time, in order to make a profit from the 
+difference in price in the two places
 
 ------------
 ##B
