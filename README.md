@@ -45,13 +45,19 @@ items or an item for bartering:
 
 ##C
 ------------
+###Chardonnay ['ʃɑːrdəneɪ]
+
+n.霞多丽酒（一种类似夏布利酒的无甜味白葡萄酒）；霞多丽（一种酿酒葡萄，原产自法国勃艮第）
+
+
+
 ###concubine ['kɑːŋkjubaɪn]
 
 a woman who, in some ​societies, ​lives and has ​sex with a man she is not ​married to, and has a ​lower ​social ​rank than his wife or wives
 
-###Chardonnay ['ʃɑːrdəneɪ]
-
-n.霞多丽酒（一种类似夏布利酒的无甜味白葡萄酒）；霞多丽（一种酿酒葡萄，原产自法国勃艮第）
+###Convoluted
+adj.旋绕的；费解的
+动词convolute的过去式和过去分词.
 
 ###Cunt 
 
