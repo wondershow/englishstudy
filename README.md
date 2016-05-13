@@ -59,6 +59,9 @@ a woman who, in some ​societies, ​lives and has ​sex with a man she is not
 adj.旋绕的；费解的
 动词convolute的过去式和过去分词.
 
+###Corpus
+noun. a collection of written and spoken language used in the study of language and in writing dictionaries
+
 ###Cunt 
 
 n. <忌>阴道； 女性之阴部； 性交； 肉体； (尤指被视作性交对象的)女人
