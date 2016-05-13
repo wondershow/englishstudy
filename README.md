@@ -110,6 +110,10 @@ Felicity
 
 n. happiness, ​luck, or a ​condition that ​produces ​positive ​results:
 
+Fetish
+n. an activity or object that someone is interested in to an extreme degree and that the person gives an unreasonable amount of time or thought to:
+
+_He had a fetish about clothes._
 
 ##G
 ------------
