@@ -194,6 +194,10 @@ noun [C] UK    /ˈpɑː.li/  US    /ˈpɑːr.li/ old-fashioned or humorous
 
 › a ​discussion between two ​groups of ​people, ​especially one that is ​intended to end an ​argument
 
+###Plantagenet
+金雀花
+
+
 ###Potter
 n.陶工；陶艺家
 vi.懒散；闲逛(=putter)；磨蹭地做一些琐事
