@@ -238,11 +238,27 @@ noun [C]  US    /ruz/
 _You didn’t ​fall for my ruse._
 
 
+
 ##S
 ###saber
 a ​weapon with a ​sharp ​blade, used esp. in the past by ​soldiers on ​horses
 
 马刀
+
+###shrine
+noun
+1.
+a building or other shelter, often of a stately or sumptuous character, enclosing the remains or relics of a saint or other holy person and forming an object of religious veneration and pilgrimage.
+2.
+any place or object hallowed by its history or associations:
+a historic shrine.
+3.
+any structure or place consecrated or devoted to some saint, holy person, or deity, as an altar, chapel, church, or temple.
+4.
+a receptacle for sacred relics; a reliquary.
+verb (used with object), shrined, shrin·ing.
+5.
+to enshrine.
 
 ###Synagogue
 a ​building in which ​people of the ​Jewish ​religion ​worship and ​study
