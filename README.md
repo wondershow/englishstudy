@@ -50,6 +50,8 @@ items or an item for bartering:
 n.霞多丽酒（一种类似夏布利酒的无甜味白葡萄酒）；霞多丽（一种酿酒葡萄，原产自法国勃艮第）
 
 
+###Colosseum
+古罗马圆形斗兽场
 
 ###concubine ['kɑːŋkjubaɪn]
 
