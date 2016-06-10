@@ -172,6 +172,20 @@ n.  (esp. in the ​Roman ​Catholic ​Church) a ​religious ​ceremony ​b
 
 ##P
 ------------
+###pantheon
+noun
+1.
+a domed circular temple at Rome, erected a.d. 120–124 by Hadrian, used as a church since a.d.
+2.
+(lowercase) a public building containing tombs or memorials of the illustrious dead of a nation.
+3.
+(lowercase) the place of the heroes or idols of any group, individual, movement, party, etc., or the heroes or idols themselves:
+to earn a place in the pantheon of American literature.
+4.
+(lowercase) a temple dedicated to all the gods.
+5.
+(lowercase) the gods of a particular mythology considered collectively.
+
 
 ###Parish
 n. 
