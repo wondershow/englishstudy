@@ -231,6 +231,13 @@ _Unfortunately, he said, there are ​people who have no qualms about ​bringin
 
 ##R
 
+###Ramadan
+1.
+the ninth month of the Muslim calendar.
+Compare Muslim calendar.
+2.
+the daily fast that is rigidly enjoined from dawn until sunset during this month.
+
 ###ruse
 noun [C]  US    /ruz/
 
