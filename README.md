@@ -296,6 +296,36 @@ _You didn’t ​fall for my ruse._
 ###saber
 a ​weapon with a ​sharp ​blade, used esp. in the past by ​soldiers on ​horses
 
+###stumble
+verb (used without object), stum·bled, stum·bling.
+1.
+to strike the foot against something, as in walking or running, so as to stagger or fall; trip.
+2.
+to walk or go unsteadily:
+to stumble down a dark passage.
+3.
+to make a slip, mistake, or blunder, especially a sinful one:
+to stumble over a question; to stumble and fall from grace.
+4.
+to proceed in a hesitating or blundering manner, as in action or speech (often followed by along).
+5.
+to discover or meet with accidentally or unexpectedly (usually followed by on, upon, or across):
+They stumbled on a little village.
+6.
+to falter or hesitate, as at an obstacle to progress or belief.
+verb (used with object), stum·bled, stum·bling.
+7.
+to cause to stumble; trip.
+8.
+to give pause to; puzzle or perplex.
+noun
+9.
+the act of stumbling.
+10.
+a moral lapse or error.
+11.
+a slip or blunder.
+
 马刀
 
 ###shrine
