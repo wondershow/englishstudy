@@ -181,7 +181,18 @@ __The political campaign is in the homestretch.__
 
 ##I
 
-infernal/ɪnˈfɝː.nəl/
+###indict
+
+verb (used with object)
+1.
+(of a grand jury) to bring a formal accusation against, as a means of bringing to trial:
+The grand jury indicted him for murder.
+2.
+to charge with an offense or crime; accuse of wrongdoing; castigate; criticize:
+He tends to indict everyone of plotting against him.
+
+
+###infernal/ɪnˈfɝː.nəl/
 
 [a][before noun] old-fashioned very ​bad or ​unpleasant:
 
