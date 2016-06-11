@@ -108,14 +108,36 @@ to sound in harmony.
 
 
 ##F
-Felicity
+
+###fidget
+verb (used without object)
+1.
+to move about restlessly, nervously, or impatiently.
+verb (used with object)
+
+
+2.
+to cause to fidget; make uneasy.
+
+
+noun
+3.
+Often, fidgets. the condition or an instance of being nervously restless, uneasy, or impatient.
+
+
+4.
+Also, fidg·et·er. a person who fidgets.
+
+###Felicity
 
 n. happiness, ​luck, or a ​condition that ​produces ​positive ​results:
 
-Fetish
+###Fetish
 n. an activity or object that someone is interested in to an extreme degree and that the person gives an unreasonable amount of time or thought to:
 
 _He had a fetish about clothes._
+
+
 
 ##G
 ------------
@@ -144,6 +166,17 @@ _perfect your French in Paris!_
 
 ###Hops
 啤酒花
+
+##H
+
+###homestretch
+noun
+1.
+the straight part of a racetrack from the last turn to the finish line.
+Compare backstretch.
+2.
+the final phase of any endeavor:
+__The political campaign is in the homestretch.__
 
 
 ##I
