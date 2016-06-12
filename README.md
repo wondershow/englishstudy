@@ -363,6 +363,8 @@ verb (used with object), sired, sir·ing.
 4.
 to beget; procreate as the father.
 
+### silk satin sheet
+
 ###slaw
 n.卷心菜沙拉
 =coleslaw（美）
