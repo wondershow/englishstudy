@@ -15,6 +15,11 @@ in one place and selling it in another place at the
 same time, in order to make a profit from the 
 difference in price in the two places
 
+
+###antecedent
+n.前情；先行词；祖先
+adj.在 ... 之前的；居先的
+
 ------------
 ##B
 
