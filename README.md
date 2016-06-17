@@ -111,6 +111,16 @@ Obsolete.
 to accompany; espouse.
 to sound in harmony.
 
+##D
+decorum
+noun
+1.
+dignified propriety of behavior, speech, dress, etc.
+2.
+the quality or state of being decorous, or exhibiting such dignified propriety; orderliness; regularity.
+3.
+Usually, decorums. an observance or requirement of polite society.
+(举止得体，礼貌有度)
 
 ##F
 
@@ -212,6 +222,14 @@ He ​described a ​journey through the infernal ​world
 ###Mass
 n.  (esp. in the ​Roman ​Catholic ​Church) a ​religious ​ceremony ​based on Jesus’s last ​meal with his ​disciples (= the men who ​followed him), or ​music written for the ​parts of this ​ceremony
 
+###moratorium
+暂停
+a suspension of activity:
+__a moratorium on the testing of nuclear weapons.__
+2.
+a legally authorized period to delay payment of money due or the performance of some other legal obligation, as in an emergency.
+3.
+an authorized period of delay or waiting.
 
 ##N
 ### Neigh
