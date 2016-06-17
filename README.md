@@ -396,6 +396,30 @@ n.卷心菜沙拉
 ###tipsy
 slightly drunk
 
+###tarnish
+verb (used with object)
+1.
+to dull the luster of (a metallic surface), especially by oxidation; discolor.
+2.
+to diminish or destroy the purity of; stain; sully:
+
+__The scandal tarnished his reputation.__
+
+__tarnish our democracy__
+
+verb (used without object)
+3.
+to grow dull or discolored; lose luster.
+4.
+to become sullied.
+noun
+5.
+a tarnished coating.
+6.
+tarnished condition; discoloration; alteration of the luster of a metal.
+7.
+a stain or blemish.
+
 ##V
 ------------
 ###Venerable['venərəbl]	
