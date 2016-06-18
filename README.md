@@ -15,6 +15,17 @@ in one place and selling it in another place at the
 same time, in order to make a profit from the 
 difference in price in the two places
 
+###atrophy
+noun
+1.
+Also, a·tro·phi·a  /əˈtroʊ fi ə/ (Show Spelled). Pathology. a wasting away of the body or of an organ or part, as from defective nutrition or nerve damage.
+2.
+degeneration, decline, or decrease, as from disuse:
+He argued that there was a progressive atrophy of freedom and independence of thought.
+verb (used with or without object), at·ro·phied, at·ro·phy·ing.
+3.
+to affect with or undergo atrophy.
+
 
 ###antecedent
 n.前情；先行词；祖先
