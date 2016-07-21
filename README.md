@@ -133,6 +133,12 @@ the quality or state of being decorous, or exhibiting such dignified propriety; 
 Usually, decorums. an observance or requirement of polite society.
 (举止得体，礼貌有度)
 
+distraught
+adjective
+1. distracted; deeply agitated.
+2. mentally deranged; crazed.
+
+
 ##F
 
 ###fidget
