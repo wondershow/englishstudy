@@ -169,7 +169,12 @@ n. an activity or object that someone is interested in to an extreme degree and 
 
 _He had a fetish about clothes._
 
+###frenzy
+1. extreme mental agitation; wild excitement or derangement.
+2.
+a fit or spell of violent mental excitement; a paroxysm characteristic of or resulting from a mania:
 
+to drive to frenzy; make frantic:
 
 ##G
 ------------
